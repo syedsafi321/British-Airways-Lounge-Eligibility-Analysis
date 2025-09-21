@@ -30,8 +30,3 @@ The analysis produces:
 
 ---
 
-## Installation
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/BA_Lounge_Analysis.git
-   cd BA_Lounge_Analysis
